@@ -24,3 +24,4 @@ export const findYoungestPerson = (people) => {
     }
 }
 return youngestPerson;
+//returns youngest
